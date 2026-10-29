@@ -1,0 +1,50 @@
+LAB EQUIPMENT TRACKING SYSTEM
+
+BEFORE THIS WEEK'S NEW INSPECTIONS
+
+Asset ID: DEMO-PC-001
+Name: Desktop computer
+Lab: Training Lab A
+Stored condition: Unknown
+Quantity: 2
+Unit price: RM 1500.00
+Checked this week: false
+Total value: RM 3000.00
+Action: inspect this week; stored result is not current.
+
+Asset ID: DEMO-PJ-001
+Name: Projector
+Lab: Training Lab A
+Stored condition: Not working
+Quantity: 1
+Unit price: RM 2200.00
+Checked this week: true
+Total value: RM 2200.00
+Action: arrange maintenance.
+
+Asset ID: DEMO-LP-001
+Name: Laptop
+Lab: Training Lab A
+Stored condition: Working
+Quantity: 1
+Unit price: RM 3200.00
+Checked this week: false
+Total value: RM 3200.00
+Action: inspect this week; stored result is not current.
+
+RECORD NEW INSPECTIONS
+Inspection recorded for DEMO-PC-001: Working
+Inspection recorded for DEMO-LP-001: Not working
+
+AFTER INSPECTIONS
+DEMO-PC-001 | Desktop computer | Working
+DEMO-PJ-001 | Projector | Not working
+DEMO-LP-001 | Laptop | Not working
+
+SUMMARY
+Asset records: 3
+Total units: 4
+Checked working units: 2
+Maintenance units: 2
+Unverified units: 0
+Inventory value: RM 8400.00
